@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Movies/static/css/main.954e7325.css",
-    "main.js": "/React-Movies/static/js/main.590dd247.js",
-    "index.html": "/React-Movies/index.html",
-    "main.954e7325.css.map": "/React-Movies/static/css/main.954e7325.css.map",
-    "main.590dd247.js.map": "/React-Movies/static/js/main.590dd247.js.map"
+    "main.css": "//Pixel-Bazaar/static/css/main.9f2c8b59.css",
+    "main.js": "//Pixel-Bazaar/static/js/main.57abea19.js",
+    "index.html": "//Pixel-Bazaar/index.html",
+    "main.9f2c8b59.css.map": "//Pixel-Bazaar/static/css/main.9f2c8b59.css.map",
+    "main.57abea19.js.map": "//Pixel-Bazaar/static/js/main.57abea19.js.map"
   },
   "entrypoints": [
-    "static/css/main.954e7325.css",
-    "static/js/main.590dd247.js"
+    "static/css/main.9f2c8b59.css",
+    "static/js/main.57abea19.js"
   ]
 }
